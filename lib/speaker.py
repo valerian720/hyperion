@@ -15,4 +15,6 @@ class Speaker(object):
       mixer.music.play()
       # while mixer.music.get_busy():
       #     time.sleep(0.1)
-      print ("done")
+      print("done")
+    #TODO SOVA https://habr.com/ru/company/ashmanov_net/blog/528296/
+      

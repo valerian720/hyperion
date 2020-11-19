@@ -4,3 +4,4 @@ class Listener(object):
     
     def listen_message(self,):
       return "asd"
+    #TODO SOVA https://habr.com/ru/company/ashmanov_net/blog/523412/
